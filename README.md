@@ -91,6 +91,28 @@ The purpose of this repository is to document our clan's rules.
    Breaking the rules may result in a warning or kick out from the clan, depending on the severity of the offense.
    This is to maintain order and discipline in the clan and to create a more enjoyable experience for everyone.
 
+### Participation, Promotion, and Demotion
+
+1. **Participating in clan games and clan wars is mandatory.**
+
+   Clan games and clan wars are the beating heart of our clan.
+   We rise and fall together, facing challenges as one!
+   Everyone is expected to participate in clan games and clan wars, unleashing their troops and strategies in every battle.
+   Exceptions are only granted for emergencies, so keep the leader or co-leaders informed if you need to step back for a bit.
+
+1. **Promotions are earned, not given.**
+
+   Promotions in our clan are a symbol of trust, consistent performance, and unwavering dedication.
+   Shining in clan wars and clan games, demonstrating loyalty by following rules, and actively contributing to the clan's success are the keys that unlock higher ranks.
+
+1. **Inactive and irresponsible members are subject to demotion to ensure clan excellence.**
+
+   Members who miss multiple clan wars or fail to contribute significantly to clan games will be demoted or kicked out.
+   This allows us to prioritize active players who consistently contribute to the clan's progress.
+
+   Inactivity exceeding two weeks without prior communication will result in removal from the clan.
+   Open communication is essential for understanding individual circumstances and maintaining a stable roster.
+
 ## Contributing
 
 Contributions are always welcome.
