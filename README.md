@@ -36,19 +36,19 @@ The purpose of this repository is to document our clan's rules.
    It would also make it difficult for the leader to make decisions in a timely manner.
 
    Of course, this does not mean that the leader is infallible.
-   If the leader makes a decision that is harmful to the clan, the clan members should feel free to speak up and express their concerns.
+   If the leader makes a decision that is harmful to the clan, players should feel free to speak up and express their concerns.
    However, ultimately, the decision of the leader is final.
 
 1. **The leader and the co-leader's may make exceptions to the rules on a case-by-case basis.**
 
    The leader and the co-leader's may make exceptions to the rules on a case-by-case basis to allow for flexibility and fairness.
    There will always be situations that are not covered by the rules, or situations where the strict application of the rules would be unfair.
-   By allowing the leader and the co-leaders to make exceptions, the clan can ensure that all members are treated fairly.
+   By allowing the leader and the co-leaders to make exceptions, the clan can ensure that all players are treated fairly.
 
-1. **Be respectful and helpful to all clan members.**
+1. **Be respectful and helpful to everyone in the clan.**
 
-   Please be respectful and helpful to all clan members.
-   This will help to create a positive and supportive environment, improve communication and teamwork, and attract and retain new members.
+   Please be respectful and helpful to everyone in the clan.
+   This will help to create a positive and supportive environment, improve communication and teamwork, and attract and retain new players.
 
 1. **Harassment or bullying is not tolerated.**
 
@@ -63,13 +63,13 @@ The purpose of this repository is to document our clan's rules.
    Religious or political discussion is highly discouraged in this clan to avoid conflict and distract from the purpose of the clan.
 
    When people with different religious or political beliefs come together, there is a risk of conflict.
-   This can be especially damaging in a clan, where members need to be able to work together effectively.
+   This can be especially damaging in a clan, where players need to be able to work together effectively.
    By discouraging religious or political discussion, the clan can ensure a more harmonious environment.
 
 1. **Spamming is not allowed.**
 
    Spamming is not allowed in this clan to keep the chat clean and organized.
-   Spam can be disruptive and annoying, and it can make it difficult for clan members to find important information.
+   Spam can be disruptive and annoying, and it can make it difficult for players to find important information.
    Additionally, spam can be used to spread malware or other malicious content.
 
 1. **Discussing or promoting nudity, pornography, and LGBTQ+ is strictly prohibited.**
@@ -84,7 +84,7 @@ The purpose of this repository is to document our clan's rules.
 
    Following the leader's and co-leaders' instructions is essential for maintaining order and achieving common goals.
    Leaders and co-leaders have the experience and expertise to make informed decisions that benefit the entire clan.
-   Clan members can contribute to clan success by adhering to these instructions.
+   Players can contribute to the clan's success by adhering to these instructions.
 
 1. **Breaking the rules may result in a warning or kick out from the clan.**
 
@@ -105,9 +105,9 @@ The purpose of this repository is to document our clan's rules.
    Promotions in our clan are a symbol of trust, consistent performance, and unwavering dedication.
    Shining in clan wars and clan games, demonstrating loyalty by following rules, and actively contributing to the clan's success are the keys that unlock higher ranks.
 
-1. **Inactive and irresponsible members are subject to demotion to ensure clan excellence.**
+1. **Inactive and irresponsible players are subject to demotion to ensure clan excellence.**
 
-   Members who miss multiple clan wars or fail to contribute significantly to clan games will be demoted or kicked out.
+   Players who miss multiple clan wars or fail to contribute significantly to clan games will be demoted or kicked out.
    This allows us to prioritize active players who consistently contribute to the clan's progress.
 
    Inactivity exceeding two weeks without prior communication will result in removal from the clan.
