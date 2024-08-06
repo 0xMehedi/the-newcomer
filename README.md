@@ -6,6 +6,13 @@ The Newcomer is a friendly and supportive clan in Clash of Clans run by a few li
 Whether you're looking to improve your skills or learn new strategies, we're always happy to lend a hand.
 We welcome all players, new and old!
 
+## Join Us
+
+[![Swords-Light](./assets/icons/swords-light.svg)](https://cutt.ly/TheNewcomer#gh-dark-mode-only "Clash of Clans")
+[![Swords-Dark](./assets/icons/swords-dark.svg)](https://cutt.ly/TheNewcomer#gh-light-mode-only "Clash of Clans")
+[![WhatsApp-Light](./assets/icons/whatsapp-light.svg)](https://cutt.ly/n7zlGDo#gh-dark-mode-only "WhatsApp")
+[![WhatsApp-Dark](./assets/icons/whatsapp-dark.svg)](https://cutt.ly/n7zlGDo#gh-light-mode-only "WhatsApp")
+
 ## Purpose
 
 Every clan should adopt a few ground rules, as it creates a positive and supportive community for players to enjoy the game.
