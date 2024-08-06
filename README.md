@@ -84,6 +84,12 @@ The purpose of this repository is to document our clan's rules.
    Breaking the rules may result in a warning or kick out from the clan, depending on the severity of the offense.
    This is to maintain order and discipline in the clan and to create a more enjoyable experience for everyone.
 
+## Contributing
+
+Contributions are always welcome.
+
+Check out the [Contribution Guide](./CONTRIBUTING.md) for more info.
+
 ## License
 
 [This work](https://github.com/0xMehedi/the-newcomer) © 2023 by [Mehedi Hasan](https://github.com/0xMehedi) is licensed under [CC BY-SA 4.0](./LICENSE.md).
